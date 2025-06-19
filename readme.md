@@ -161,4 +161,5 @@ Once both servers are running, you can access them at the following URL's:
 - Frontend: http://localhost:3000
 
 
-Made with ❤️ by [Malan J](https://github.com/Malan-J)
+
+#### <center> Made with ❤️ by [Malan J](https://github.com/Malan-J) </center>
