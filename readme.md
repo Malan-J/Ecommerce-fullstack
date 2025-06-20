@@ -1,7 +1,7 @@
 ## MERN Ecommerce: A Seamless Shopping Experience Powered by the MERN Stack, Redux Toolkit, and Material UI
-
 **MERN Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the MERN stack (MongoDB, Express.js, React, Node.js)
 
+Live demo: [https://ecommerce-fullstack-frontend1.vercel.app/](https://ecommerce-fullstack-frontend1.vercel.app/)
 # **Features**
 
 ### **User:**
