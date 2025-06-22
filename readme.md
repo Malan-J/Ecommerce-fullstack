@@ -50,7 +50,7 @@ Live demo: [https://ecommerce-fullstack-frontend1.vercel.app/](https://ecommerce
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/Malan-J/Ecommerce-fullstack.git
 ```
 
 ### Navigate to the project directory
